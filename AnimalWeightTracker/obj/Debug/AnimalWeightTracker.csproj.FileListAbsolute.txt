@@ -1,0 +1,15 @@
+C:\Users\jcov\source\repos\AnimalWeightTracker\AnimalWeightTracker\obj\Debug\AnimalWeightTracker.csprojAssemblyReference.cache
+C:\Users\jcov\source\repos\AnimalWeightTracker\AnimalWeightTracker\obj\Debug\AnimalWeightTracker.LoginANDregistration.resources
+C:\Users\jcov\source\repos\AnimalWeightTracker\AnimalWeightTracker\obj\Debug\AnimalWeightTracker.Properties.Resources.resources
+C:\Users\jcov\source\repos\AnimalWeightTracker\AnimalWeightTracker\obj\Debug\AnimalWeightTracker.csproj.GenerateResource.cache
+C:\Users\jcov\source\repos\AnimalWeightTracker\AnimalWeightTracker\obj\Debug\AnimalWeightTracker.csproj.CoreCompileInputs.cache
+C:\Users\jcov\source\repos\AnimalWeightTracker\AnimalWeightTracker\bin\Debug\AnimalWeightTracker.mdf
+C:\Users\jcov\source\repos\AnimalWeightTracker\AnimalWeightTracker\bin\Debug\AnimalWeightTracker_log.ldf
+C:\Users\jcov\source\repos\AnimalWeightTracker\AnimalWeightTracker\bin\Debug\AnimalWeightTracker.exe.config
+C:\Users\jcov\source\repos\AnimalWeightTracker\AnimalWeightTracker\bin\Debug\AnimalWeightTracker.exe
+C:\Users\jcov\source\repos\AnimalWeightTracker\AnimalWeightTracker\bin\Debug\AnimalWeightTracker.pdb
+C:\Users\jcov\source\repos\AnimalWeightTracker\AnimalWeightTracker\obj\Debug\AnimalWeightTracker.exe
+C:\Users\jcov\source\repos\AnimalWeightTracker\AnimalWeightTracker\obj\Debug\AnimalWeightTracker.pdb
+C:\Users\jcov\source\repos\AnimalWeightTracker\AnimalWeightTracker\obj\Debug\AnimalWeightTracker.Main.resources
+C:\Users\jcov\source\repos\AnimalWeightTracker\AnimalWeightTracker\obj\Debug\AnimalWeightTracker.ManageAnimals.resources
+C:\Users\jcov\source\repos\AnimalWeightTracker\AnimalWeightTracker\obj\Debug\AnimalWeightTracker.AnimalProgressAnalysis.resources
